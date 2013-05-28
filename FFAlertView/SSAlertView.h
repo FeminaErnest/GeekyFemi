@@ -1,9 +1,9 @@
 //
 //  SSAlertView.h
-//  Solestruck
+//  Feminawin
 //
 //  Created by Femina Ernest on 5/28/13.
-//  Copyright (c) 2013 adaptavant. All rights reserved.
+//  Copyright (c) 2013 Feminawin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
