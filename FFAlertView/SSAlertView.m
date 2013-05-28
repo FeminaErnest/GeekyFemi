@@ -7,6 +7,7 @@
 //
 
 #import "SSAlertView.h"
+
 #define MAX_ALERT_HEIGHT 300.0
 
 @implementation SSAlertView
