@@ -80,7 +80,10 @@
     [animationImageView removeFromSuperview];
     [animationImageView stopAnimating];
     
-    SSAlertView *alert = [[SSAlertView alloc] initWithTitle:@"Welcome" message:@"Network Speed in?" delegate:self cancelButtonTitle:@"US" otherButtonTitle:@"NON US"];
+    SSAlertView *alert = [[SSAlertView alloc] initWithTitle:@"Welcome"
+                                                    message:@"Network Speed in?"
+                                                   delegate:self
+                                          cancelButtonTitle:@"US" otherButtonTitle:@"NON US"];
     [self.view addSubview:alert];
 }
 
